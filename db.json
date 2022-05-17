@@ -1,0 +1,19 @@
+{
+    "name": "ornekeklenti",
+    "publisher": "Administrator",
+    "version": "0.0.1",
+    "version_code": 3,
+    "database": [],
+    "widgets": [],
+    "language": "php",
+    "status": 0,
+    "service": null,
+    "supportedLiman": "1.9",
+    "support": "administrator@liman.dev",
+    "icon": "fas fa-bolt",
+    "display_name": "Ornekeklenti",
+    "require_key": "false",
+    "verification": null,
+    "dependencies": null,
+    "sslPorts": null
+}
